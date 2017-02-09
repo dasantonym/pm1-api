@@ -1,0 +1,7 @@
+node_modules
+dist
+config/development.json
+config/production.json
+*.log
+.idea
+.DS_Store
